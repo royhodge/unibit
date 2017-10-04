@@ -100,11 +100,11 @@ If you would like to add a translation, please open an issue and ask the leads f
 so that we do not waste efforts.
 
 If anyone has any issues understanding the English documentation, please let us know! 
-If you would like to do so privately, please email @yoshi. 
+If you would like to do so privately, please email @yoshi(mailto:dane@unibitlabs.com?subject=translation help). 
 We are very sensitive to language issues, and do not want to turn anyone away from hacking because of their language.
 
 ### Helping in other ways
 
 UniBit Labs occasionally is able to hire developers for part time or full time positions, to work on UniBit. 
 If you are interested, check out [the job listings](http://). 
-If you'd like to help in other ways, email @js_ directly(mailto:js_@unibit.io?subject=Contributing to UniBit).
+If you'd like to help in other ways, email @roy directly(mailto:roy@unibitlabs.com?subject=Contributing to UniBit).
